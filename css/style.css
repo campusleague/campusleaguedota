@@ -3721,10 +3721,10 @@
 	}
 
 	body.landing #page-wrapper3 {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://upload.wikimedia.org/wikipedia/commons/3/32/Arena_da_Campus_Party_Recife_2012_-_Pernambuco,_Brasil%282%29.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://upload.wikimedia.org/wikipedia/commons/3/32/Arena_da_Campus_Party_Recife_2012_-_Pernambuco,_Brasil%282%29.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://upload.wikimedia.org/wikipedia/commons/3/32/Arena_da_Campus_Party_Recife_2012_-_Pernambuco,_Brasil%282%29.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://upload.wikimedia.org/wikipedia/commons/3/32/Arena_da_Campus_Party_Recife_2012_-_Pernambuco,_Brasil%282%29.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner3.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner3.jpg");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner3.jpg");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../images/banner3.jpg");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
